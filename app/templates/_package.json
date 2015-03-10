@@ -1,0 +1,34 @@
+{
+  "name": "<%= _.slugify(appname) %>",
+  "description": "<%= appDescription %>",
+  "version": "0.0.0",
+  "author": {
+    "name": "<%= realname %>",
+    "email": "<%= email %>",
+    "url": "<%= githubUrl %>"
+  },
+  "bugs": {
+    "url": "<%= githubUser %>/<%= _.slugify(appname) %>/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "sails": "~0.11.0",
+    "should": "*",
+    "mocha": "*"
+  },
+  "engines": {
+    "node": ">= 0.10.0",
+    "npm": ">= 1.4.0"
+  },
+  "homepage": "<%= githubUser %>/<%= _.slugify(appname) %>",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./index.js",
+  "repository": "<%= githubUser %>/<%= _.slugify(appname) %>",
+  "scripts": {
+    "test": "sh test/test.sh"
+  },
+  "sails": {
+    "isHook": true
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "generator-sails-hook",
+  "description": "Creating a sails hook scaffolding",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kiko Beats",
+    "email": "josefrancisco.verdu@gmail.com",
+    "url": "https://github.com/Kikobeats"
+  },
+  "bugs": {
+    "url": "https://github.com/Kikobeats/generator-sails-hook/issues"
+  },
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "github": "^0.2.1",
+    "lodash": "^3.5.0",
+    "npm-name": "^1.0.4",
+    "superb": "^1.0.2",
+    "underscore.string": "^3.0.3",
+    "yeoman-generator": "^0.18.10",
+    "yosay": "^1.0.3"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "app"
+  ],
+  "homepage": "https://github.com/Kikobeats/generator-sails-hook",
+  "keywords": [
+    "generator",
+    "git",
+    "github",
+    "initialize",
+    "project",
+    "scaffold",
+    "yeoman"
+  ],
+  "license": "MIT",
+  "main": "app/index.js",
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  },
+  "repository": "https://github.com/Kikobeats/generator-sails-hook",
+  "scripts": {
+    "test": "mocha"
+  }
+}
