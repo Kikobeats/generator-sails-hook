@@ -16,19 +16,6 @@
 ```bash
 npm install <%=_.slugify(appname)%>
 ```
-
-If you want to use in the browser (powered by [Browserify](http://browserify.org/)):
-
-```bash
-bower install <%=_.slugify(appname)%> --save
-```
-
-and later link in your HTML:
-
-```html
-<script src="bower_components/<%=_.slugify(appname)%>/dist/<%=_.slugify(appname)%>.js"></script>
-```
-
 ## Usage
 
 ## API
@@ -36,5 +23,3 @@ and later link in your HTML:
 ## License
 
 MIT © [<%= realname %>](<%= blog %>)
-
-
