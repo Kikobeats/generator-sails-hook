@@ -1,7 +1,7 @@
 {
   "name": "generator-sails-hook",
   "description": "Creating a sails hook scaffolding",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Kiko Beats",
     "email": "josefrancisco.verdu@gmail.com",
