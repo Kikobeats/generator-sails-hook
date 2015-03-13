@@ -10,6 +10,9 @@ module.exports = function(sails) {
 
   return {
 
+    // Pause sails lifting until this hook has completed initializing
+    // ready: false,
+
     // set up the options of your hook
     defaults:{
     },
