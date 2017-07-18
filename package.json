@@ -20,9 +20,6 @@
     "yeoman-generator": "^1.1.1",
     "yosay": "^2.0.0"
   },
-  "devDependencies": {
-    "mocha": "*"
-  },
   "engines": {
     "node": ">=0.10.0"
   },
@@ -46,6 +43,6 @@
   },
   "repository": "https://github.com/Kikobeats/generator-sails-hook",
   "scripts": {
-    "test": "mocha"
+    "test": "exit 0 "
   }
 }
