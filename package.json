@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "chalk": "^2.0.1",
-    "github": "^9.2.0",
+    "github": "^10.0.0",
     "lodash": "^4.17.4",
     "npm-name": "^3.1.0",
     "superb": "^1.0.2",
