@@ -11,14 +11,14 @@
     "url": "https://github.com/Kikobeats/generator-sails-hook/issues"
   },
   "dependencies": {
-    "chalk": "^2.0.1",
-    "github": "^11.0.0",
-    "lodash": "^4.17.4",
-    "npm-name": "^3.1.0",
-    "superb": "^1.0.2",
-    "underscore.string": "^3.0.3",
-    "yeoman-generator": "^1.1.1",
-    "yosay": "^2.0.0"
+    "chalk": "latest",
+    "github": "latest",
+    "lodash": "latest",
+    "npm-name": "latest",
+    "superb": "latest",
+    "underscore.string": "latest",
+    "yeoman-generator": "latest",
+    "yosay": "latest"
   },
   "engines": {
     "node": ">=0.10.0"
