@@ -1,7 +1,5 @@
 # generator-sails-hook
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/generator-sails-hook.svg)](https://greenkeeper.io/)
-
 [![Dependency status](http://img.shields.io/david/Kikobeats/generator-sails-hook.svg?style=flat)](https://david-dm.org/Kikobeats/generator-sails-hook)
 [![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/generator-sails-hook.svg?style=flat)](https://david-dm.org/Kikobeats/generator-sails-hook#info=devDependencies)
 [![NPM Status](http://img.shields.io/npm/dm/generator-sails-hook.svg?style=flat)](https://www.npmjs.org/package/generator-sails-hook)
